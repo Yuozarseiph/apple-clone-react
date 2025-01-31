@@ -10,7 +10,7 @@ const NavigationBar = () => {
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="mx-auto">
-            <Nav.Link href="#">Mac</Nav.Link>
+            <Nav.Link href="/mac">Mac</Nav.Link>
             <Nav.Link href="#">iPad</Nav.Link>
             <Nav.Link href="#">iPhone</Nav.Link>
             <Nav.Link href="#">Watch</Nav.Link>
