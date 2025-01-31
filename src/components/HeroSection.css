@@ -1,0 +1,26 @@
+.hero-section {
+  height: 80vh ;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+.hero-section h2 {
+  font-weight: 500;
+  color: white;
+
+}
+.hero-section .btn {
+
+  color: white;
+  border-radius: 100px;
+}
+.hero-section .btn:hover {
+  color: white;
+}
+.hero-section *{
+  font-family: sans-serif;
+}
+

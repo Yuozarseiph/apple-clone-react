@@ -1,0 +1,15 @@
+.navbar-custom {
+  background-color: #c4c4c6;
+  -webkit-backdrop-filter: blur(10px);
+  backdrop-filter: blur(10px);
+  padding: 0;
+}
+.navbar-custom .nav-link {
+  color: black !important;
+}
+.apple-logo {
+  color: black !important;
+}
+svg{
+  height: 44px;
+}
